@@ -295,4 +295,76 @@
     <item msgid="5077768429488260031">"Tillåt aldrig"</item>
     <item msgid="1417929597727989746">"Tillåt alltid"</item>
   </string-array>
+
+
+  <!-- **** CYANOGENMOD EDITS START **** -->
+
+  <!-- Volume Overlay options. -->
+  <string-array name="volume_overlay_entries">
+    <item>Enkel</item>
+    <item>Expanderbar</item>
+    <item>Expanderad</item>
+    <item>Ingen</item>
+  </string-array>
+
+  <!-- Performance settings -->
+  <string-array name="pref_zram_size_entries">
+    <item>Inaktiverat</item>
+    <item>10%</item>
+    <item>18% (standard)</item>
+    <item>26%</item>
+  </string-array>
+
+  <!-- Profile mode options. -->
+  <string-array name="profile_entries">
+    <item>På</item>
+    <item>Av</item>
+    <item>Ingen överskridning</item>
+  </string-array>
+
+  <!-- Values for vibrate_entries matching constants in SoundSettings. Do not translate. -->
+  <string-array name="profile_values" translatable="false">
+    <item>ÖVERSKRID</item>
+    <item>UNDERTRYCK</item>
+    <item>STANDARD</item>
+  </string-array>
+
+  <!-- Profile mode options. -->
+  <string-array name="profile_connection_entries">
+    <item>Inaktivera</item>
+    <item>Aktivera</item>
+  </string-array>
+
+  <string-array name="entries_network_widget">
+    <item>2G/3G+2G</item>
+    <item>2G/3G endast</item>
+    <item>2G/3G endast/3G+2G</item>
+  </string-array>
+
+  <string-array name="entries_flash_widget">
+    <item>Normal</item>
+    <item>Hög</item>
+  </string-array>
+
+  <string-array name="haptic_feedback_entries">
+    <item>Använd globala inställningar</item>
+    <item>På</item>
+    <item>Av</item>
+  </string-array>
+
+  <string-array name="entries_status_bar_am_pm">
+    <item>Normal</item>
+    <item>Liten</item>
+    <item>Ingen</item>
+  </string-array>
+
+  <string-array name="lockscreen_long_key_press_values">
+    <item></item>
+    <item>NÄSTA</item>
+    <item>FÖREGÅENDE</item>
+    <item>SPELA/PAUSA</item>
+    <item>LJUD</item>
+  </string-array>
+
+  <!-- **** CYANOGENMOD EDITS END **** -->
 </resources>
